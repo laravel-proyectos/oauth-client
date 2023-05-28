@@ -1,0 +1,15 @@
+.register-link {
+	cursor: pointer;
+
+	&:hover {
+		font-weight: 600;
+	}
+}
+
+.icon-button {
+	cursor: pointer;
+
+	&:hover {
+		color: #666666;
+	}
+}
